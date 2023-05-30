@@ -38,4 +38,12 @@
 * チュートリアル機能
 
 ## 使用技術
+* Flutter 3.10.0
+* Firebase
+  * Cloud Firestore 4.5.0
+  * Storage 11.1.0
+  * Authentication 4.2.2
+
+## 主要コンポーネント
+* 
 
