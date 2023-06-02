@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "325017033419",
+    "firebase_url": "https://carender-1faae-default-rtdb.firebaseio.com",
+    "project_id": "carender-1faae",
+    "storage_bucket": "carender-1faae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325017033419:android:be8dfcb9e96bec167d594e",
+        "android_client_info": {
+          "package_name": "com.carender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9l4xWxVmW5S9vIuealpaj10DQioanSc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325017033419:android:3836b409d06768027d594e",
+        "android_client_info": {
+          "package_name": "com.example.carender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9l4xWxVmW5S9vIuealpaj10DQioanSc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325017033419:android:a9319a39841bc5687d594e",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9l4xWxVmW5S9vIuealpaj10DQioanSc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325017033419-5soshgeoog82cl14vr0m7bpdtdo34es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
